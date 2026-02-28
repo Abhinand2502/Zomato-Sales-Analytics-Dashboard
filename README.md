@@ -2,6 +2,7 @@
 
 An interactive Sales Analytics Dashboard built using Microsoft Excel to analyze Zomato restaurant data across cities, states, categories, and time periods.
 <img width="1190" height="637" alt="Screenshot 2026-02-19 205403" src="https://github.com/user-attachments/assets/6ecec4a5-5a38-4b70-b266-2b7c486af03d" />
+<img width="972" height="539" alt="image" src="https://github.com/user-attachments/assets/4dac5d89-1e83-4488-aca3-1e443197112f" />
 
 ## Project Overview
 
